@@ -42,4 +42,9 @@ consulta por id
 Método GET (local)
 http://localhost:8080/api/v1/books/1
 
-
+### Testando app na nuvem:
+Inserindo dados -- Método Post
+https://meuapp-bookmanager.herokuapp.com/api/v1/books
+ 
+Lendo dados inseridos -- Método GET
+https://meuapp-bookmanager.herokuapp.com/api/v1/books/1
