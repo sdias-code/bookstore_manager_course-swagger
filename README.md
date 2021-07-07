@@ -9,10 +9,10 @@
 
 3 - Aprendi sobre padrões de arquitetural REST
 
-4 - isponibilizar o projeto para uso na nuvem através do Heroku, de forma simples e gratuita!
+4 - Disponibilizar o projeto para uso na nuvem através do Heroku, de forma simples e gratuita!
 
 ### Como usar:
-git clone https://github.com/sdias-code/digitalinnovationone.git
+git clone https://github.com/sdias-code/bookstore_manager_course.git
 
 ### No terminal:
 Execute o projeto no terminal, digite o seguinte comando:
