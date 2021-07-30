@@ -14,7 +14,7 @@ public class SwaggerConfigurations {
     public Docket bookstoremanagerApi(){
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.sdias.bookstoremanager")) //meu caminho padrao
+                .apis(RequestHandlerSelectors.basePackage("com.sdias.bookstoremanager")) //meu caminho
                 .paths(PathSelectors.ant("/**"))
                 .build();
     }
